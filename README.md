@@ -1,11 +1,11 @@
 
 # Setup Docker Para Projetos Laravel (8, 9 ou 10)
-[Assine a Academy, e Seja VIP!](https://academy.especializati.com.br)
+[Flytools.org](https://flytools.org)
 
 ### Passo a passo
 Clone Repositório
 ```sh
-git clone https://github.com/especializati/setup-docker-laravel.git
+git clone https://github.com/flytools/setup-docker-laravel-npm
 ```
 
 Clone os Arquivos do Laravel
